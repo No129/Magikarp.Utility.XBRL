@@ -4,6 +4,7 @@ C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Main.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Behavior.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Definition.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.UI.Entry.dll
+C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Utility.TransitData.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\System.Windows.Interactivity.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\UI.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Definition.MVP.dll
@@ -11,7 +12,6 @@ C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platfo
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Utility.XBRL.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Utility.MVVM.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Behavior.Progress.dll
-C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Utility.TransitData.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Behavior.MVP.dll
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\UI.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\UI.dll.config
@@ -19,12 +19,12 @@ C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platfo
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Definition.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.UI.Entry.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.UI.Entry.dll.config
+C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Utility.TransitData.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Definition.MVP.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Utility.Region.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Utility.XBRL.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Utility.MVVM.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Behavior.Progress.pdb
-C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Utility.TransitData.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Behavior.MVP.pdb
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\Magikarp.Platform.Behavior.MVP.dll.config
 C:\_TOHU\Workspace\Magikarp\Magikarp.Utility.XBRL\Main\bin\Debug\de\System.Windows.Interactivity.resources.dll
